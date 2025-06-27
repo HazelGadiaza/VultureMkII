@@ -39,5 +39,11 @@ CREATING A VIRTUAL ENVIRONMENT
   ```
   source meshtastic-client/bin/activate
   ```
+- The name of the first meshtastic client is meshtastic-client. For the other clients, the naming convention of the virtual environment is meshtastic-client-2, meshtastic-client-3, and so on.
 Once activated, your terminal prompt will show the name of the activated environment. Meaning, any Python commands you run will now use the environment’s Python interpreter and configuration.
+- After creating a python virtual environment, install the Pytap2 and Meshtastic
+  ```
+  pip3 install --upgrade pytap2
+  pip3 install --upgrade "meshtastic[cli]"
+  ```
 - To deactivate, just run `deactivate`
