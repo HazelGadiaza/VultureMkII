@@ -1,4 +1,4 @@
-Inside the vulture-venv, install dronekit
+Inside the vulture-venv, download dronekit packages
 ```
 pip install dronekit
 pip install dronekit-sitl
