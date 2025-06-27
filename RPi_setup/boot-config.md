@@ -1,10 +1,10 @@
 # User credentials for login. Newly set up raspberry pi
 
-**Vulture 1**
-**Username:** vulture-1
-**Password:** password
+**Vulture 1** <br>
+**Username:** vulture-1 <br>
+**Password:** password <br><br>
 
 
-**Vulture 2**
-**Username:** vulture-2
+**Vulture 2** <br>
+**Username:** vulture-2 <br>
 **Password:** password
