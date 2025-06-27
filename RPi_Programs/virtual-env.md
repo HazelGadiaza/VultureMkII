@@ -1,5 +1,6 @@
 # Working inside a Python Virtual Environment
-> For Vulture's Raspberry Pi, Python programs must run in a dedicated Virtual Environment. Similarly, Python Packages must also be installed in the same Virtual Environment. This is best practice for running Python programs in RPi.
+> [!IMPORTANT]
+> For Vulture Raspberry Pi's, ALL Python programs must run in a dedicated Virtual Environment. Similarly, Python Packages must also be installed in the same Virtual Environment. This is best practice for running Python programs in RPi.
 
 ## Creating Python Virtual Environments
 - install virtualenv and venv
