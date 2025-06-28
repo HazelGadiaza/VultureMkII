@@ -1,5 +1,8 @@
 # VultureMkII_RPi_programming
-A collection of scripts and programs ran in Raspberry Pi 4 of Vulture Mk. 2. 
+A collection of scripts running and programs installed in Raspberry Pi 4 of Vulture Mk. 2. 
 
 
- Example Python scripts for autonomous flight using Python by DroneDoko - [Github](https://github.com/dronedojo/droneProgrammingCourse/blob/master/dk/basic_template.py)
+### Useful References
+ Example Python scripts for autonomous flight using Python by DroneDojo - [Github](https://github.com/dronedojo/droneProgrammingCourse/blob/master/dk/basic_template.py)
+<br>
+Connecting Raspberry Pi w/ Pixhawk and Communicating via MAVLink Protocol - [Youtube](https://www.youtube.com/watch?v=DGAB34fJQFc&t=593s)
