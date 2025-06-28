@@ -17,4 +17,4 @@ Complete guide on drone building from kits and experimentation on controls - [Gi
 ✅ Install Dronekit <br>
 ☐ SSH into RPi <br>
 ☐ Need to install pymavlink and mavproxy in RPi. ([Guide](https://www.youtube.com/watch?v=DGAB34fJQFc&t=593s) <br>
-☐ Identify connections between Pixhawk and RPi <br>
+✅ Identify connections between Pixhawk and RPi <br>
