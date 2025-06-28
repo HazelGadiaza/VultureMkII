@@ -6,3 +6,7 @@ A collection of scripts running and programs installed in Raspberry Pi 4 of Vult
  Example Python scripts for autonomous flight using Python by DroneDojo - [Github](https://github.com/dronedojo/droneProgrammingCourse/blob/master/dk/basic_template.py)
 <br>
 Connecting Raspberry Pi w/ Pixhawk and Communicating via MAVLink Protocol - [Youtube](https://www.youtube.com/watch?v=DGAB34fJQFc&t=593s)
+
+
+### To do's
+- Need to install pymavlink and mavproxy in RPi
