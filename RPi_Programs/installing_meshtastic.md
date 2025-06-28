@@ -12,13 +12,6 @@ Because Meshtastic devices haven't arrived yet (as of June 25, 2025).
 After running `pip3 install --upgrade pytap2`, an error message `error:externally-managed-environment` appeared.
 To install Pytap2, a python3 virtual environment must be created. A guide to creating a virtual environment is also detailed in the installation guide page but an error was also encountered.
 
-UPDATE: Not recommended. The sure way is to create a virtual environment
-Alternatively, pipx can also be used to install the other packages <br>
-```
-sudo apt install pipx && pipx install "meshtastic[cli]" <br>
-pipx ensurepath
-```
-
 
 ### 3. Cannot install `python-virtualenvwrapper` to create a Python virtual environment. Use `venv` as alternative
 Error message was: `sudo: pacman: command not found` <br>
@@ -39,8 +32,7 @@ CREATING A VIRTUAL ENVIRONMENT
   ```
   source meshtastic-client/bin/activate
   ```
-- The name of the first meshtastic client is meshtastic-client. For the other clients, the naming convention of the virtual environment is meshtastic-client-2, meshtastic-client-3, and so on.
-Once activated, your terminal prompt will show the name of the activated environment. Meaning, any Python commands you run will now use the environment’s Python interpreter and configuration.
+- Once activated, your terminal prompt will show the name of the activated environment. Meaning, any Python commands you run will now use the environment’s Python interpreter and configuration.
 - After creating a python virtual environment, install the Pytap2 and Meshtastic
   ```
   pip3 install --upgrade pytap2
