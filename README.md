@@ -9,9 +9,9 @@ Connecting Raspberry Pi w/ Pixhawk and Communicating via MAVLink Protocol - [You
 
 
 ### To do's
-✅ Initial setup and config of RPi
-✅ Install Meshtastic Python CLI to make RPi as client
-✅ Install Dronekit
+✅ Initial setup and config of RPi <br>
+✅ Install Meshtastic Python CLI to make RPi as client <br>
+✅ Install Dronekit <br>
 - SSH into RPi
 - Need to install pymavlink and mavproxy in RPi
 - Identify connections between Pixhawk and RPi
